@@ -19,6 +19,7 @@ class Studentdetails{
 		m4 =  Integer.parseInt(inp.readLine());
 		System.out.println("Enter the mark5");
 		m5 =  Integer.parseInt(inp.readLine());
+		System.out.println("hello");	
 		
 
 		System.out.println("The Student Number is :"+ sno);
@@ -36,4 +37,5 @@ class Studentdetails{
 			System.out.println("Invaild Data");
 		}
 	}
+
 }
